@@ -27,7 +27,7 @@ pip install seaborn
 pip install tensorflow
 ```
 
-> > > You can make sure to create `venv` first to install the dependencies locally and not globally. Virtual environment can be created using this command: `python3 -m venv ./venv` or `python -m venv ./venv`. Do the activation using the command: linux/macos `source venv/bin/activate` or windows `.\venv\Scripts\activate`. If not, please make sure that you know what you're doing.
+> You can make sure to create `venv` first to install the dependencies locally and not globally. Virtual environment can be created using this command: `python3 -m venv ./venv` or `python -m venv ./venv`. Do the activation using the command: linux/macos `source venv/bin/activate` or windows `.\venv\Scripts\activate`. If not, please make sure that you know what you're doing.
 
 #### CUDA (Optional)
 
